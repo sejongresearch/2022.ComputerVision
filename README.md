@@ -5,6 +5,11 @@
 - 수강대상자: 컴퓨터비전을 활용한 연구를 진행하고 있거나 진행할 예정인 학생 (소속 연구실에서 학습용GPU를 지원받을 수 있는 학생)
 - 담당교수: 최유경 (ykchoi@sejong.ac.kr), 담당조교: 신정민(총괄), 황유진(Eval.ai)
 
+## 양방향 소통을 위한 SLACK플랫폼
+- 아래의 링크를 참고하시어 입장하세요
+- https://join.slack.com/t/2022-computervision/shared_invite/zt-14fj2y2xj-TStRMqKnJO9NxgYz5kJ9rA
+
+
 ## 배점 정보
 - 중간기말 : 30점 / 수시평가(과제 및 프로젝트) : 60점 / 출결 :10점
 
