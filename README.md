@@ -58,7 +58,8 @@
 | 14 | 응용3 |  | 2022.06.03 | | 프로젝트 4단계 마감 |
 | 15 |  기말고사 |  | 2022.06.10 | |  |
 
-*응용 주차의 경우, 매년 새로운 응용을 소개하고 최근 연구결과도 함께 소개하는 것으로 발전시켜 나갈 계획임
+* 응용 주차의 경우, 매년 새로운 응용을 소개하고 최근 연구결과도 함께 소개하는 것으로 발전시켜 나갈 계획임
+* Object Detection, Detection and Segmentation, 3D Vision, Videos, Gnerative Model, Explainable AI, Reinforcement Learning etc.
 
 
 
