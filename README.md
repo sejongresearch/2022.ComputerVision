@@ -44,7 +44,7 @@
 |3-1|   영상분류1 | [PDF]() | 2022.03.18 | [Youtube](https://youtu.be/ZnDGBvnNsSU) |  |
 |3-2|   영상분류2 | [PDF]() | 2022.03.18 |  [Youtube](https://youtu.be/bsZq4-P8eek) |  |
 |3-3|   선형분류   | [PDF]() | 2022.03.18 | [Youtube](https://youtu.be/X-k5QjFnzmI) |  |
-|4-1|   손실함수   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/3o-AtdLvSBA) | 프로젝트 설명단계 |
+|4-1|   손실함수   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/3o-AtdLvSBA) | 프로젝트 단계설명 |
 |4-2|    최적화   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/N_l3OjVa7xY) |  |
 |4-3|    신경망   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/bzLMpjSnzM0) |  |
 | 5 |    역전파   | [PDF]() | 2022.04.01 | [Youtube](https://youtu.be/sIBb_XjCr_o) |  |
