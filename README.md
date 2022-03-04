@@ -41,23 +41,23 @@
 |2-1| 인공지능개론  | - | 2022.03.11 | [Youtube](https://youtu.be/vdzaVKzJikY) | |
 |2-2| 인공지능활용  | - | 2022.03.11 | [Youtube](https://youtu.be/uqapSC9Spos) | |
 |2-3| 컴퓨터비전개론 | 준비중  | 2022.03.11 | 준비중 | |
-|3-1|   영상분류1 | [PDF]() | 2022.03.18 | |  |
-|3-2|   영상분류2 | [PDF]() | 2022.03.18 | |  |
-|3-3|   선형분류   | [PDF]() | 2022.03.18 | |  |
-|4-1|   손실함수   | [PDF]() | 2022.03.25 | | 프로젝트 설명단계 |
-|4-2|    최적화   | [PDF]() | 2022.03.25 | |  |
-|4-3|    신경망   | [PDF]() | 2022.03.25 | |  |
-| 5 |    역전파   | [PDF]() | 2022.04.01 | |  |
-| 6 | 합성곱신경망  | [PDF]() | 2022.04.08 | |  |
-| 7 | 합성곱신경망 구조 | [PDF]() | 2022.04.15 | |  |
-| 8 | 중간고사 |  | 2022.04.22 |  | 프로젝트 1단계 마감 |
-| 9 | 딥러닝 HW/SW | [PDF]() | 2022.04.29 | |  |
+|3-1|   영상분류1 | [PDF]() | 2022.03.18 | [Youtube](https://youtu.be/ZnDGBvnNsSU) |  |
+|3-2|   영상분류2 | [PDF]() | 2022.03.18 |  [Youtube](https://youtu.be/bsZq4-P8eek) |  |
+|3-3|   선형분류   | [PDF]() | 2022.03.18 | [Youtube](https://youtu.be/X-k5QjFnzmI) |  |
+|4-1|   손실함수   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/3o-AtdLvSBA) | 프로젝트 설명단계 |
+|4-2|    최적화   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/N_l3OjVa7xY) |  |
+|4-3|    신경망   | [PDF]() | 2022.03.25 | [Youtube](https://youtu.be/bzLMpjSnzM0) |  |
+| 5 |    역전파   | [PDF]() | 2022.04.01 | [Youtube](https://youtu.be/sIBb_XjCr_o) |  |
+| 6 | 합성곱신경망  | [PDF]() | 2022.04.08 | [Youtube](https://youtu.be/KL1cI6y9oYc) |  |
+| 7 | 합성곱신경망 구조 | [PDF]() | 2022.04.15 | [Youtube](https://youtu.be/89J4xj5wMfY) |  |
+| 8 | 중간고사 | - | 2022.04.22 | - | 프로젝트 1단계 마감 |
+| 9 | 딥러닝 HW/SW | [PDF]() | 2022.04.29 | [Youtube](https://youtu.be/zZtqmXwo7-8) |  |
 | 10 | 신경망 학습1 |  | 2022.05.06 | |  |
 | 11 | 신경망 학습2 |  | 2022.05.13 | | 프로젝트 2단계 마감 |
 | 12 | 응용1 |  | 2022.05.20 | |  |
 | 13 | 응용2 |  | 2022.05.27 | | 프로젝트 3단계 마감 |
 | 14 | 응용3 |  | 2022.06.03 | | 프로젝트 4단계 마감 |
-| 15 |  기말고사 |  | 2022.06.10 | |  |
+| 15 |  기말고사 | - | 2022.06.10 | - |  |
 
 * 응용 주차의 경우, 매년 새로운 응용을 소개하고 최근 연구결과도 함께 소개하는 것으로 발전시켜 나갈 계획임
 * Object Detection, Detection and Segmentation, 3D Vision, Videos, Gnerative Model, Explainable AI, Reinforcement Learning etc.
