@@ -6,8 +6,7 @@
 - 담당교수: 최유경 (ykchoi@sejong.ac.kr), 담당조교: 신정민(총괄), 황유진(Eval.ai)
 
 ## 양방향 소통을 위한 SLACK플랫폼
-- 아래의 링크를 참고하시어 입장하세요. (수강신청자가 아니면 들어올 수 없습니다.)
-- https://join.slack.com/t/2022-computervision/shared_invite/zt-14fj2y2xj-TStRMqKnJO9NxgYz5kJ9rA
+- 블랙보드 공지사항을 참고하시어 입장하세요. 
 
 
 ## 배점 정보
