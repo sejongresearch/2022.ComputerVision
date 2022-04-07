@@ -8,3 +8,5 @@
 - [Denoising][Learning Enriched Features for Real Image Restoration and Enhancement](https://arxiv.org/pdf/2003.06792v2.pdf)
 - [VideoClassification][Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/pdf/1412.0767v4.pdf)
 - [VideoCompression][DVC: An end-to-end deep video compression framework](https://arxiv.org/abs/1812.00101)
+- [PlaceRecognition][NetVLAD: CNN architecture for weakly supervised place recognition](https://arxiv.org/abs/1511.07247)
+- [FeatureMatching][{SuperGlue}: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763)
