@@ -1,9 +1,22 @@
-## 텀프로젝트 1단계
-- 아래의 논문 리스트에서 읽기 희망하는 논문을 골라 아래의 공유 엑셀 시트에 본인의 이름을 기입하세요. 1단계에서 선정한 논문의 주제는 2단계 이후로 계속 유지되므로 신중하게 선정해 주시기 바랍니다.
+
+## 프로젝트 단계별 설명
+- **[마감 2022.04.28] 1단계**
+  - 관심 주제 논문 선정 / 논문 읽기 / 논문 내용 발표
+- **[마감 2022.05.12] 2단계**
+  - (성능 원복을 위한) 논문 구현 / (수업 내 챌린지를 위한) 리더보드 제작 / 논문 구현 발표
+- **[마감 2022.05.26] 3단계**
+  - (자신 리더보드 제외) 베이스라인 원복에 도전할 리더보드 선정(3개) / 리더보드 제작자 영상을 통한 논문 이해 및 따라하기를 통한 베이스라인 원복
+- **[마감 2022.06.16] 4단계**
+  - (자신 리더보드 포함) 베이스라인을 넘길 리더보드 선정(1개) / 최근 논문 서베이 및 자신의 간단한 아이디어를 통한 베이스라인 뛰어넘기 도전 
+
+
+## 텀프로젝트 1단계 시작을 위한 가이드라인
+- 아래의 논문 리스트에서 읽기 희망하는 논문을 골라 아래의 공유 엑셀 시트에 본인의 이름을 기입하세요. 
+- 1단계에서 선정한 논문의 주제는 2단계 이후로 계속 유지되므로 신중하게 선정해 주시기 바랍니다.
   - (선착순) 4월 8일(금) 오후 1시 부터 이름 기입 가능
   - https://docs.google.com/spreadsheets/d/175Ol3fwT7IAQWJ5Ipm4yKEvqup5zghswKf_raApJn4k/edit#gid=1941903379
 
-### 논문 리스트
+## 프로젝트 관심 주제 선정을 위한 논문 리스트 
 - [1][ObjectDetection][SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 - [2][PedestrianDetection][Is Faster R-CNN Doing Well for Pedestrian Detection?](https://arxiv.org/abs/1607.07032)
 - [3][Semantic Segmentation][Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038v2.pdf)
