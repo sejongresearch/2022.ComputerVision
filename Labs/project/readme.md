@@ -2,6 +2,7 @@
 - [ObjectDetection][SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 - [SuperResolution][Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092v3.pdf)
 - [Semantic Segmentation][Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038v2.pdf)
+- [Instance Segmentation][Mask R-CNN](https://arxiv.org/abs/1703.06870)
 - [Monocular Depth Estimation][Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/abs/1609.03677)
 - [2D Human Pose Estimation][Stacked Hourglass Networks for Human Pose Estimation](https://arxiv.org/abs/1603.06937)
 - [LaneDetection][Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/pdf/1708.02551v1.pdf)
