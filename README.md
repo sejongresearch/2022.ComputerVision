@@ -64,14 +64,14 @@
 | * |    실습과제4   | [과제설명서](https://github.com/sejongresearch/2022.ComputerVision/blob/main/Labs/w5p1.md) | 2022.04.01 | | 마감 4/21 |
 | 6 | 합성곱신경망 구조 | [PDF](https://github.com/sejongresearch/2022.ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%B8%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20(2022).pdf) | 2022.04.08 | [Youtube](https://youtu.be/89J4xj5wMfY) | 프로젝트 1단계 시작 |
 | * |    실습과제5   | [과제설명서](https://github.com/sejongresearch/2022.ComputerVision/tree/main/Labs/w6p1) | 2022.04.14 | | 마감 4/14 |
-| * |   프로젝트 1단계   | [설명서](https://github.com/sejongresearch/2022.ComputerVision/tree/main/Labs/project) |  | | |
+| * |   프로젝트 1단계   | [설명서](https://github.com/sejongresearch/2022.ComputerVision/tree/main/Labs/project) |  | | 마감 4/28 |
 | 7 | 딥러닝 HW/SW | [PDF](https://github.com/sejongresearch/2022.ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20HW:SW%20(2022).pdf) | 2022.04.15 | [Youtube](https://youtu.be/zZtqmXwo7-8) |  |
 | 8 | 중간고사 | - | 2022.04.22 | - |  |
-| 9 | 신경망 학습1 |  | 2022.04.29 | |  프로젝트 1단계 마감 |
+| 9 | 신경망 학습1 |  | 2022.04.29 | |  프로젝트 2단계 시작 |
 | 10 | 신경망 학습2 |  | 2022.05.06 | |  |
-| 11 | 응용1 |  | 2022.05.13 | | 프로젝트 2단계 마감 |
+| 11 | 응용1 |  | 2022.05.13 | | 프로젝트 3단계 시작 |
 | 12 | 응용2 |  | 2022.05.20 | |  |
-| 13 | 응용3 |  | 2022.05.27 | | 프로젝트 3단계 마감 |
+| 13 | 응용3 |  | 2022.05.27 | | 프로젝트 4단계 시작 |
 | 14 | 응용4 |  | 2022.06.03 | |  |
 | 15 |  기말고사 | - | 2022.06.10 | - | 프로젝트 4단계 마감 |
 
