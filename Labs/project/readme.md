@@ -14,4 +14,4 @@
 - [12][LaneDetection][Semantic Instance Segmentation with a Discriminative Loss Function](https://arxiv.org/pdf/1708.02551v1.pdf)
 - [13][PlaceRecognition][NetVLAD: CNN architecture for weakly supervised place recognition](https://arxiv.org/abs/1511.07247)
 - [14][FeatureMatching][{SuperGlue}: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763)
-- [15][SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again](https://arxiv.org/abs/1711.10006)
+- [15][ObjectPoseEstimation][SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again](https://arxiv.org/abs/1711.10006)
