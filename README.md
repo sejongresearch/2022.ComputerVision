@@ -52,6 +52,7 @@
 | * |    실습과제5   | [과제설명서](https://github.com/sejongresearch/2022.ComputerVision/tree/main/Labs/w6p1) | 2022.04.08 | | 마감 4/14 |
 | * |   프로젝트 1단계   | [설명서](https://github.com/sejongresearch/2022.ComputerVision/tree/main/Labs/project) | 2022.04.08 | | 마감 4/28 |
 | 7 | 딥러닝 HW/SW | [PDF](https://github.com/sejongresearch/2022.ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%20HW:SW%20(2022).pdf) | 2022.04.15 | [Youtube](https://youtu.be/zZtqmXwo7-8) |  |
+| * |    실습과제4   | [과제설명서](https://github.com/sejongresearch/2022.ComputerVision/blob/main/Labs/w5p1.md) | 리마인더 | | 마감 4/21 |
 | 8 | 중간고사 | - | 2022.04.22 | - |  |
 | 9 | 신경망 학습1 |  | 2022.04.29 | |  프로젝트 2단계 시작 |
 | 10 | 신경망 학습2 |  | 2022.05.06 | |  |
