@@ -55,7 +55,7 @@
 | * |    실습과제4   | [과제설명서](https://github.com/sejongresearch/2022.ComputerVision/blob/main/Labs/w5p1.md) | 리마인더 | | 마감 4/21 |
 | 8 | 중간고사 | - | 2022.04.22 | - |  |
 | 9 | Eval.AI 제작법 |  | 2022.04.29 | [Youtube](https://youtu.be/q4ptFRF4KsA) |  프로젝트 2단계 시작 |
-| 10 | 신경망 학습1 |  | 2022.05.06 | |   |
+| 10 | 신경망 학습1 | [PDF](https://github.com/sejongresearch/2022.ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20CNN%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%20(2022)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2022.05.06 | [Youtube](https://youtu.be/WbnGog-XMPk) |   |
 | 11 | 신경망 학습2 |  | 2022.05.13 | | 프로젝트 3단계 시작 |
 | 12 | 응용1 |  | 2022.05.20 | |  |
 | 13 | 응용2 |  | 2022.05.27 | | 프로젝트 4단계 시작 |
