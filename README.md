@@ -70,6 +70,9 @@
 
 
 
+## 참고자료
+- 본 수업은 미시간대학의 [EECS 498-007 / 598-005: Deep Learning for Computer Vision] 을 활용하고 있음을 밝힙니다.
+
 
 
 
